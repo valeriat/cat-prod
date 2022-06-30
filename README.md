@@ -1,7 +1,37 @@
-cat-prod
-==============================
+# California Housing Price Prediction
 
-A short description of the project.
+#### -- Project Status: Active
+
+## Project Intro/Objective
+The purpose of this project is to apply and train Machine Learning Development and Deployment
+best practices as well as MLOps principles on a simple application. We use the
+California housing dataset to build a prediction model of the median house value.
+
+
+
+### Methods Used
+* Machine Learning
+* Data Visualization
+* Predictive Modeling
+
+### Technologies
+* Python
+* Pandas, jupyter
+* scikit-learn
+
+## Project Description
+
+## Needs of this project
+
+## Getting Started
+
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
+4. etc...
+
+## Featured Notebooks
+* [Main Modelling Notebook](notebooks/MLE_D4_LC1_California_Prediction.ipynb)
 
 Project Organization
 ------------
